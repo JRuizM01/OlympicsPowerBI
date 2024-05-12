@@ -23,8 +23,8 @@ You can find the following information in the file:
 1. All-time medal leaderboard by country
 2. Deeper detail of the medals earned by country (by selection)
 3. How the Olympics have managed to innovate and include more athletes throughout the years
-  - Looking at the number of countries accepted, the number of events hosted, and female athlete inclusion through the years
+      - Looking at the number of countries accepted, the number of events hosted, and female athlete inclusion through the years
 4. Athlete body type comparison across sports
-  - Looking at the distribution of weight and height around sports, and how winners differ from their competition.
+      - Looking at the distribution of weight and height around sports, and how winners differ from their competition.
 5. Comparing athlete performance as hosts.
-  - Comparing the medals won by the host country versus its average medals won throughout the years.
+      - Comparing the medals won by the host country versus its average medals won throughout the years.
